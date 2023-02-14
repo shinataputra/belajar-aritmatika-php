@@ -9,6 +9,8 @@ $angka2=2;
 //operasi penjumlahan
 $hasilpenjumlahan=$angka1+$angka2;
 
+//bisa menambahkan rumus matematika disini
+
 
 
 //menampilkan hasil
