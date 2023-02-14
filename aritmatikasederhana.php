@@ -9,6 +9,8 @@ $angka2=2;
 //operasi penjumlahan
 $hasilpenjumlahan=$angka1+$angka2;
 
+
+
 //menampilkan hasil
-echo $hasilpenjumlahan;
+echo "$angka1 + $angka2 = $hasilpenjumlahan";
 
